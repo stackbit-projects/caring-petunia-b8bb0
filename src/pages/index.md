@@ -16,7 +16,7 @@ sections:
         label: Learn More
         url: /features
         style: primary
-        icon: arrow-right
+        icon: arrow-left
   - type: section_features
     template: section_features
     section_id: features
