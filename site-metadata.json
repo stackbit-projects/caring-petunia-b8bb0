@@ -27,7 +27,7 @@
                 "label": "Έλαιο",
                 "url": "/product",
                 "style": "link",
-                "has_icon": true,
+                "has_icon": false,
                 "icon": "",
                 "icon_position": "",
                 "new_window": false,
